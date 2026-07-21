@@ -1,0 +1,81 @@
+<div class="col-12 col-sm-6 col-md-6">
+                <div class="card border-0 shadow-lg rounded-4 p-3 d-flex flex-column overflow-hidden">
+                  <div class="card-body p-4 flex-grow-1">
+                    <div class="d-flex align-items-center gap-3">
+                      <div class="position-relative shrink-0">
+                        <div class="rounded-4 bg-success d-flex align-items-center justify-content-center" style="width: 60px; height: 60px; font-size: 1.5rem;">
+                          UB
+                        </div>
+                        <span class="position-absolute top-0 start-100 translate-middle bg-gradient-orange border border-light rounded-circle text-center d-flex align-items-center justify-content-center" style="width: 20px; height: 20px;">
+                          <i class="fas fa-star text-white" style="font-size: 0.5rem;"></i>
+                        </span>
+                         <span class="position-absolute top-100 start-100 translate-middle bg-danger border border-light rounded-circle text-center d-flex align-items-center justify-content-center" style="width: 20px; height: 20px;">
+                          <i class="fa-solid fa-heart-pulse text-white" style="font-size: 0.5rem;"></i>
+                        </span>
+                      </div>
+                      <div class="min-w-0 flex-grow-1 pt-1">
+                        <h3 class="h6 mb-1 fw-bold text-dark text-truncate">Ubaidullah</h3>
+                        <div class="d-flex align-items-center gap-2">
+                          <span class="badge bg-primary-subtle text-primary rounded-1 p-2 d-flex align-items-center justify-content-center" style="width: 24px; height: 24px;">
+                            <i class="fas fa-phone text-primary" style="font-size: 0.875rem;"></i>
+                          </span>
+                          <span class="text-muted small text-truncate">01035647890</span>
+                        </div>
+                      </div>
+                    </div>
+
+                    <!-- Contact Details -->
+                     <div class="mt-3">
+                      <div class="d-flex align-items-center gap-2 mb-2">
+                        <span class="badge bg-violet-subtle text-violet rounded-1 p-2 d-flex align-items-center justify-content-center" style="width: 24px; height: 24px;">
+                          <i class="fas fa-envelope" style="font-size: 0.875rem;"></i>
+                        </span>
+                        <span class="text-secondary small text-truncate">ubaidullah@example.com</span>
+                      </div>
+                      <div class="d-flex align-items-center gap-2 mb-2">
+                        <span class="badge bg-success-subtle text-success rounded-1 p-2 d-flex align-items-center justify-content-center" style="width: 24px; height: 24px;">
+                          <i class="fas fa-map-marker-alt" style="font-size: 0.875rem;"></i>
+                        </span>
+                        <span class="text-secondary small text-truncate">123 Main Street, City, Country</span>
+                      </div>
+                     </div>
+
+                     <!-- Badges -->
+                      <div class="d-flex flex-wrap gap-1 mt-3">
+                        <span class="badge bg-violet-subtle text-violet fw-medium text-capitalize">Work</span>
+                        <span class="badge bg-danger-subtle text-danger fw-medium d-inline-flex align-items-center gap-1 text-capitalize">
+                          <i class="fa-solid fa-heart-pulse" style="font-size: 0.875rem;"></i>
+                          Emergency
+                        </span>
+                      </div>
+                  </div>
+                  <!-- Action Footer -->
+                   <div class="card-footer bg-light border-top-0 p-x-3 p-2 d-flex justify-content-between align-items-center">
+                     <div class="d-flex gap-1">
+                      <a href="tel:01055679585" class="btn btn-sm bg-success-subtle text-success border-0 rounded-2 icon-box-sm" title="Call">
+                        <i class="fas fa-phone small"></i>
+                      </a>
+                      <button class="btn btn-sm bg-violet-subtle text-violet border-0 rounded-2 icon-box-sm" title="Email">
+                        <i class="fas fa-envelope small"></i>
+                      </button>
+                     </div>
+                     <div class="d-flex gap-1">
+                      <button class="btn btn-sm text-warning bg-warning-subtle border-0 rounded-2 icon-box-sm" title="Favorite">
+                        <i class="fas fa-star small"></i>
+                      </button>
+                      <button class="btn btn-sm text-danger bg-danger-subtle border-0 rounded-2 icon-box-sm" title="Emergency">
+                        <i class="fa-solid fa-heart-pulse small"></i>
+                      </button>
+                      <button 
+                      onclick="" 
+                      class="btn btn-sm text-secondary border-0 rounded-2 icon-box-sm" title="Edit">
+                        <i class="fas fa-pen small"></i>
+                      </button>
+                      <button 
+                      class="btn btn-sm text-secondary border-0 rounded-2 icon-box-sm" title="Edit">
+                        <i class="fas fa-trash small"></i>
+                      </button>
+                     </div>
+                   </div>
+                </div>
+              </div>
